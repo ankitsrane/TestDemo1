@@ -1,17 +1,7 @@
 2nd file created
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Adding new commit from Feature Branch
 Adding new Comment
+
+
+Commit from master branch
