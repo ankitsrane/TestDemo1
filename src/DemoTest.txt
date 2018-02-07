@@ -1,1 +1,6 @@
+<<<<<<< .merge_file_zKjFln
 hi ankit, how r u
+=======
+hi ankit
+2nd comment
+>>>>>>> .merge_file_ufEOhx
